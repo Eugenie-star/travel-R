@@ -1,0 +1,27 @@
+/*font-face
+@import url(/web/inter.css);*/
+/*root*/
+@import url(../blocks/root/root.css);
+/*header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/_svg/_Russia-logo/header_svg_Russia-logo.css);
+@import url(../blocks/header/_svg/_lang-link/header_svg_lang-link.css);
+@import url(../blocks/header/_svg/_lang-link/_ru/header_svg_lang-link_ru.css);
+@import url(../blocks/header/_svg/_lang-link/_en/header_svg_lang-link_en.css);
+/*content*/
+@import url(../blocks/content/content.css);
+/*lead*/
+@import url(../blocks/content/_lead/content_lead.css);
+@import url(../blocks/content/_lead/_title/content_lead_title.css);
+@import url(../blocks/content/_lead/_subtitle/content_lead_subtitle.css);
+@import url(../blocks/content/_lead/_lead-polka/content_lead_lead-polka.css);
+@import url(../blocks/content/_lead/_caption/content_lead_caption.css);
+/*intro*/
+@import url(../blocks/content/_intro/content_intro.css);
+@import url(../blocks/content/_intro/_title/content_intro_title.css);
+@import url(../blocks/content/_intro/_text/content_intro_text.css);
+@import url(../blocks/content/_intro/_list/content_intro_list.css);
+@import url(../blocks/content/_intro/_list/_l-item/content_intro_list_l-item.css);
+/*section-grid*/
+@import url(../blocks/content/_section-grid/content_section-grid.css);
+@import url(../blocks/content/_section-grid/_item/content_section-grid_item.css);

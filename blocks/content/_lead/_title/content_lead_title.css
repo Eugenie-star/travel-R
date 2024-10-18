@@ -1,0 +1,10 @@
+.title {
+  font-family: InterVariable;
+  font-weight: 900;
+  line-height: 100px;
+  font-size: 96px;
+  text-align: center;
+  width: 720px;
+  height: 200px;
+  margin: 32px auto 0;
+}
