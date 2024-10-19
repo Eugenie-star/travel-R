@@ -1,0 +1,8 @@
+.website {
+  width: 456px;
+  margin-right: 0;
+  grid-area: website;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}

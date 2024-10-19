@@ -25,3 +25,15 @@
 /*section-grid*/
 @import url(../blocks/content/_section-grid/content_section-grid.css);
 @import url(../blocks/content/_section-grid/_item/content_section-grid_item.css);
+/*places*/
+@import url(../blocks/content/_places/content_places.css);
+@import url(../blocks/content/_places/_place/content_places_place.css);
+@import url(../blocks/content/_places/_place/_title/title.css);
+@import url(../blocks/content/_places/_place/_image/image.css);
+@import url(../blocks/content/_places/_place/_website/website.css);
+@import url(../blocks/content/_places/_place/_website/_url-heading/url-heading.css);
+@import url(../blocks/content/_places/_place/_website/_link/link.css);
+@import url(../blocks/content/_places/_place/_paragraph/paragraph.css);
+/*cover*/
+@import url(../blocks/content/_cover/cover.css);
+@import url(../blocks/content/_cover/_img-cover/img-cover.css);

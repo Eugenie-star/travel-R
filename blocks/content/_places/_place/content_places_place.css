@@ -1,0 +1,14 @@
+.place {
+  width: 984px;
+  height: 660px;
+  margin: 0 auto 80px;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: fit-content(76px) auto auto;
+  column-gap: 35px;
+  row-gap: 35px;
+  grid-template-areas:
+    "title website"
+    "image paragraph"
+    "image paragraph";
+}

@@ -1,0 +1,9 @@
+.title {
+  font-size: 72px;
+  line-height: 76px;
+  width: 460px;
+  height: fit-content;
+  margin: 0 0;
+  grid-area: title;
+  text-align: start;
+}

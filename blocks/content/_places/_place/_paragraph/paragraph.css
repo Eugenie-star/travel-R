@@ -1,0 +1,7 @@
+.paragraph {
+  grid-area: paragraph;
+  margin: 0px 0 48px;
+  width: 485px;
+  line-height: 163%;
+  font-size: 18px;
+}
